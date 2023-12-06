@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 242033cfc2c56de4c829f227c3a3ddb4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - classicHotDogSO: {fileID: 11400000, guid: bf06719f35c859945ba1e7eb426eefe7, type: 2}
+  - caesarHotDogSO: {fileID: 11400000, guid: 0522746710372974bbd267fdc76f779c, type: 2}
+  - meatHotDogSO: {fileID: 11400000, guid: d099ba26bfe9e0643871a777112a39e7, type: 2}
+  - picklesSO: {fileID: 11400000, guid: 70ad59034f4ef1d4aa0a2ecbd54ad464, type: 2}
+  - sweetOnionSO: {fileID: 11400000, guid: cec428b9a5dd63742b87a04c13ca24c5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

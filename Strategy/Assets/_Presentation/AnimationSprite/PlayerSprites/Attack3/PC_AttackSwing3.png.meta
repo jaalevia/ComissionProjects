@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: c8cb476179b8c3742b65a6c8e9c6e3a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC_AttackSwing3_0
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 54
+        width: 237
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1660b65c8361ff44b80c3117e1e1301b
+      internalID: 1591913100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_1
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 54
+        width: 240
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef2b920044064499f6bb9682b76fb1
+      internalID: 859131232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_2
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 54
+        width: 240
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c0f314f943bfd4fb83c4af0c752262
+      internalID: 431033518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_3
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 54
+        width: 243
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b230cde7b9805489980687a1a02f00
+      internalID: 1338168940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_4
+      rect:
+        serializedVersion: 2
+        x: 4626
+        y: 51
+        width: 240
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0e229e78a5c4944978e077c232b16b
+      internalID: 811584717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_5
+      rect:
+        serializedVersion: 2
+        x: 4884
+        y: 51
+        width: 237
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1c9d9b768a3249aff693cc0c3a615
+      internalID: -830398699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_8
+      rect:
+        serializedVersion: 2
+        x: 5403
+        y: 51
+        width: 231
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d8542af6072244a180b7c29fc1fb6
+      internalID: 1318901848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_10
+      rect:
+        serializedVersion: 2
+        x: 5142
+        y: 51
+        width: 237
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7ed1ca9d9d1ff4f953de1a84868779
+      internalID: 721244648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 102
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d29054a3bec9b40b615e5203f29993
+      internalID: -2061647023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 54
+        width: 102
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7af429143c21394ea4d9807d269bec4
+      internalID: -1632548199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_15
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 54
+        width: 105
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162588f957ef49545b0c218a3bd4fc63
+      internalID: -1258937318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_16
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 54
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea993118c1acfd41b765ee25fe59062
+      internalID: -1628847614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_17
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 54
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aab827a713f82418a2c896604ce31b
+      internalID: -761592070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 54
+        width: 96
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd23f37f4b88749b004446f6fd2c88
+      internalID: 311498940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_19
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 54
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ebd83b573c90d4d8a7d428ce1addfd
+      internalID: -1037388384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_20
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 54
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649f03ea3e02a464dab1f13ac706d1fd
+      internalID: 962524968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_21
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 54
+        width: 72
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2909a70dc5a4a46b26da8bcdc67eb7
+      internalID: -1903517347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_22
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 54
+        width: 72
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02880448f633604a917479386b20bf7
+      internalID: 1988591285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_23
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 54
+        width: 75
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae6e20cbd589cb4aa622cbbb2d113eb
+      internalID: -2012736514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_24
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 54
+        width: 90
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3374af412b82143b2e6f039a2192d3
+      internalID: -1328699843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_25
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 54
+        width: 99
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48658dcd5c86b5e41b390c1de375a912
+      internalID: 768474146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_26
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 54
+        width: 105
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18467ae98b8b78d4ea9396a633adf4a5
+      internalID: 692001568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_27
+      rect:
+        serializedVersion: 2
+        x: 5667
+        y: 51
+        width: 222
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5befd6264e17b246b33aa49121a7995
+      internalID: -1292206747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_AttackSwing3_28
+      rect:
+        serializedVersion: 2
+        x: 5931
+        y: 51
+        width: 126
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea60aa1d90833f438160467b435119e
+      internalID: 1954267481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC_AttackSwing3_0: 1591913100
+      PC_AttackSwing3_1: 859131232
+      PC_AttackSwing3_10: 721244648
+      PC_AttackSwing3_11: -410944216
+      PC_AttackSwing3_12: 2015458031
+      PC_AttackSwing3_13: -2061647023
+      PC_AttackSwing3_14: -1632548199
+      PC_AttackSwing3_15: -1258937318
+      PC_AttackSwing3_16: -1628847614
+      PC_AttackSwing3_17: -761592070
+      PC_AttackSwing3_18: 311498940
+      PC_AttackSwing3_19: -1037388384
+      PC_AttackSwing3_2: 431033518
+      PC_AttackSwing3_20: 962524968
+      PC_AttackSwing3_21: -1903517347
+      PC_AttackSwing3_22: 1988591285
+      PC_AttackSwing3_23: -2012736514
+      PC_AttackSwing3_24: -1328699843
+      PC_AttackSwing3_25: 768474146
+      PC_AttackSwing3_26: 692001568
+      PC_AttackSwing3_27: -1292206747
+      PC_AttackSwing3_28: 1954267481
+      PC_AttackSwing3_29: -1406139714
+      PC_AttackSwing3_3: 1338168940
+      PC_AttackSwing3_4: 811584717
+      PC_AttackSwing3_5: -830398699
+      PC_AttackSwing3_6: -680385288
+      PC_AttackSwing3_7: 1751576137
+      PC_AttackSwing3_8: 1318901848
+      PC_AttackSwing3_9: -1439850391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
